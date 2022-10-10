@@ -21,4 +21,4 @@ jobs:
         run: |
           ipconfig
           hostname
-          
+          winv[System.Environment]::OSVersion.Versioner
